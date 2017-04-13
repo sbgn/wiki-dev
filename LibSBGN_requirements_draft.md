@@ -1,0 +1,1 @@
+[LibSBGNspecsDraft1.1.pdf](/sbgn/wiki-files/blob/master/LibSBGN_requirements_draft/LibSBGNspecsDraft1.1.pdf)
